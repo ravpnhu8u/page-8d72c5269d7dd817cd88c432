@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a82a56b4987d11dd1ad65cb9",
+  "owner": "ravpnhu8u",
+  "repo": "page-8d72c5269d7dd817cd88c432",
+  "title": "芝麻",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8d72c5269d7dd817cd88c432",
+      "a": "芝麻",
+      "b": "2027最新官网",
+      "entity": "芝麻",
+      "brand": "芝麻",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aa0e00883cc45a4821eb01c9479e079c51fea46a5c8d73d3637e311cf5641c8b",
+      "content": {
+        "primary_entity": "芝麻",
+        "keyword1": "芝麻",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备订阅场景提供按流量与设备数划分的三档套餐。基础版每月 100GB 流量、支持 3 台设备同时在线；旗舰版每月 300GB 流量、支持 5 台设备，并针对游戏加速优化线路；团队版每月 1000GB 流量、支持 20 台设备，适合小型团队分账号使用。按月或按年计费均可，按年支付更划算。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "芝麻为需要稳定海外连接的用户提供不同档位的订阅选择，按每月流量与同时在线设备数区分，覆盖个人手机、笔记本到小型团队的多设备使用场景。",
+          "AI_VISUAL_TITLE": "芝麻订阅套餐总览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版针对游戏加速优化线路",
+          "AI_HIGHLIGHT_3": "按年付费更省，适合长期使用",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量和月流量出发，选择适合自己使用节奏的套餐版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，先数清常用设备再决定。",
+          "AI_FEATURE_TITLE_2": "按流量需求挑档位",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 到 1000GB 三档月流量，轻度浏览与高清视频各取所需。",
+          "AI_FEATURE_TITLE_3": "订阅周期影响成本",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月与按年计费，年付方案的单月成本更低，适合稳定长用。",
+          "AI_CLIENTS_TITLE": "选择适配的客户端",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅信息完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含游戏加速优化线路；团队版每月 1000GB、20 台设备并支持定制路由。年付分别 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认需求，再查看适配要求，最后依客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐版本",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中挑选一档。",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备的系统版本与网络环境，核对所选套餐的同时在线设备上限。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按说明导入订阅信息，完成连接测试后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再上路",
+          "AI_CLOSING_TEXT": "按设备数与流量挑一档芝麻套餐，导入订阅后即可连接使用。",
+          "AI_FAQ_TITLE": "芝麻常见问题",
+          "AI_FAQ_QUESTION_1": "芝麻如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "如果单人少量设备使用，基础版每月 100GB、3 台设备足够。需要流媒体解锁和更多设备，可选旗舰版。团队或多设备协同建议团队版，流量和设备额度更高。",
+          "AI_FAQ_QUESTION_2": "芝麻支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。选择时需按实际设备数量匹配套餐，避免超出上限。",
+          "AI_FAQ_QUESTION_3": "芝麻年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相比月付更划算。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。月付适合短期体验，年付适合长期稳定使用。",
+          "AI_FAQ_QUESTION_4": "芝麻的客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "先按设备类型选择对应的订阅客户端，再获取订阅链接，依照该客户端的文档导入配置即可。不同客户端界面略有差异，按文档步骤操作更顺畅。",
+          "AI_FAQ_QUESTION_5": "芝麻旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的场景，同时提供全节点原生流媒体解锁与 7x24 优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jubbart.cn",
+    "host": "jubbart.cn"
+  },
+  "file_hashes": {
+    "index.html": "e3deaa00bbb5988de08c23fd76fdc5a5950660d21a178642163a5cff93c58beb",
+    "sitemap.xml": "c37d25910672f0b7bcef660bb5e98c7d7d19570fecf5771ccd89ecbf192be853",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f1dcbf55fa6839fa5f64e584f1d5e3e8a692ede1334bd2a7b3e21483f6464612",
+    "robots.txt": "18b8d7794d4a47c40bf345fdbeaba293d28bdae3d68079aa9bb572e091f4631c",
+    "3917a92fa59af40d094fdb0ab430de29.txt": "bab7de0a2aaa5a077fb642f96dd9ca5ec91b88b77c933148549f0acaa2e4b3e5"
+  },
+  "revision": "2b31ee3e07eaa13845d89902f50a824f0ce1976cd6cf1d054bd9477a3ff99b72"
+}
